@@ -5,11 +5,11 @@
 	"architecture": {
 		"64bit": {
 			"url": "https://downloads.sourceforge.net/project/meshlab/meshlab/MeshLab%20v1.3.3/MeshLab_v133_64bit.exe",
-			"hash": "sha1:1ee8b7b3c62828e01be0804e84967980b84d3196"
+			"hash": "sha1:fca15757489ba7afce68e5bf13dab0e956504e05"
 		},
 		"32bit": {
 			"url": "https://downloads.sourceforge.net/project/meshlab/meshlab/MeshLab%20v1.3.3/MeshLab_v133.exe",
-			"hash": "sha1:05bfd507f9d721a23c84bf4d006f3c8d0c74424e"
+			"hash": "sha1:1ee8b7b3c62828e01be0804e84967980b84d3196"
 		}
 	},
 	"extract_dir": "meshlab",
