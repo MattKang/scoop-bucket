@@ -1,0 +1,17 @@
+{
+	"homepage": "http://meshlab.sourceforge.net/",
+	"version": "1.3.3",
+	"license": "GPLv2",
+	"architecture": {
+		"64bit": {
+			"url": "https://downloads.sourceforge.net/project/meshlab/meshlab/MeshLab%20v1.3.3/MeshLab_v133_64bit.exe",
+			"hash": "sha1:1ee8b7b3c62828e01be0804e84967980b84d3196"
+		},
+		"32bit": {
+			"url": "https://downloads.sourceforge.net/project/meshlab/meshlab/MeshLab%20v1.3.3/MeshLab_v133.exe",
+			"hash": "sha1:05bfd507f9d721a23c84bf4d006f3c8d0c74424e"
+		}
+	},
+	"extract_dir": "meshlab",
+	"bin": "meshlab.exe"
+}
